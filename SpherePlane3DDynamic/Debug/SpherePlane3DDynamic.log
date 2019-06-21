@@ -1,0 +1,64 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(219): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(220): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(221): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(227): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(228): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(229): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(235): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(236): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(237): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(243): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(244): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(245): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(502): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+d:\profiles\njp2424\desktop\physics\level7\physics-sphere-plane-3d-dynamic-mastervs2017\sphereplane3ddynamic\main.cpp(606): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SpherePlane3DDynamic.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-sphere-plane-3D-Dynamic-masterVS2017\SpherePlane3DDynamic\Debug\SpherePlane3DDynamic.exe
